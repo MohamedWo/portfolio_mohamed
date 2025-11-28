@@ -8,7 +8,7 @@ export default function Projects() {
       description:
         'A machine learning project predicting student performance using logistic regression and Streamlit.',
       tech: ['Python', 'Scikit-learn', 'Streamlit'],
-      github: 'https://github.com/MohamedWo/Student-Behavior-Prediction-using-Machine-Learning',
+      github: 'https://student-behavior-prediction-using-machine-learning-wkbygzhuucq.streamlit.app/',
     },
     {
       title: '🧠 Object Detection App',
