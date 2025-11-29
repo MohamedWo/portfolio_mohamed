@@ -33,6 +33,13 @@ export default function Projects() {
     tech: ['Python', 'Streamlit', 'Machine Learning'],
     github: 'https://project--ai--predict-cars-mnprxgbo23jkaxon2o48hx.streamlit.app/',
   },
+     {
+    title: '📩 SMS Spam Detection App',
+    description:
+      'A Streamlit app that detects whether an SMS message is SPAM or HAM using machine learning.',
+    tech: ['Python', 'Streamlit', 'NLP', 'Machine Learning'],
+    github: 'https://smsguardmlproject-yysfac456bedvrr2sdbocn.streamlit.app/',
+  },
 
   ]
 
