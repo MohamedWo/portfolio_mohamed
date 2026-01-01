@@ -11,6 +11,10 @@ export default function Home() {
     'Data Visualization',
     'Machine Learning',
     'Deep Learning',
+    'ASP.NET',
+    'CSS',
+    'HTML',
+    'javascript'
   ]
 
   return (
